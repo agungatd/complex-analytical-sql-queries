@@ -1,0 +1,3 @@
+-- init sql script that creates the database schema
+-- and populates it with some initial data
+-- when the database is first created.
