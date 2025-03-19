@@ -1,0 +1,1 @@
+# This repository contains list of complex analytical SQL query problems.
