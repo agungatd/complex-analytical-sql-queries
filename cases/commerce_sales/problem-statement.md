@@ -1,0 +1,1 @@
+# Complex CTE Query for Sales Analysis with Multiple Transformations
